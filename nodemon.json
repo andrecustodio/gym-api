@@ -1,0 +1,9 @@
+{
+    "env": {
+        "PORT": 7001,
+        "MONGO_URL": "" ,
+        "MONGO_USER": "mernUser",
+        "MONGO_PASSWORD": "",
+        "MONGO_DB": "MERN_01"
+    }
+}
